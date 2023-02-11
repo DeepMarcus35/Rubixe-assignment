@@ -1,0 +1,172 @@
+.Cards_container {
+    width: 100%;
+    background-color: rgb(242, 242, 242);
+  }
+  
+  .Cards_container .techforteens {
+    height: 100px;
+    padding: 50px 0px;
+    margin: 0 18%;
+  }
+  
+  .Cards_container h1 {
+    text-align: left;
+    -webkit-text-stroke-width: 50%;
+  }
+  
+  .cards_div {
+    height: 450px;
+    margin: 0 18%;
+    display: flex;
+  }
+  
+  .cards {
+    width: 20%;
+    height: 350px;
+  }
+  
+  /* one */
+  
+  .one .card_1 {
+    background-color: rgb(26, 46, 109);
+    height: 40px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .one.card_2 {
+    height: 270px;
+    background-image: linear-gradient(white, white, rgb(242, 242, 242));
+    overflow: hidden;
+  }
+  
+  .one .card_3 {
+    height: 40px;
+    background-color: rgb(242, 242, 242);
+  }
+  
+  /* two */
+  
+  .two .card_1 {
+    background-color: rgb(242, 242, 242);
+    height: 40px;
+  }
+  .two .card_2 {
+    height: 270px;
+    background-image: linear-gradient(rgb(242, 242, 242), white, white, white);
+    overflow: hidden;
+  }
+  
+  .two .card_3 {
+    height: 40px;
+    background-color: rgb(130, 19, 99);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  
+  /* three */
+  .three .card_1 {
+    background-color: rgb(241, 100, 57);
+    height: 40px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .three .card_2 {
+    height: 270px;
+    background-image: linear-gradient(white, white, rgb(242, 242, 242));
+    overflow: hidden;
+  }
+  
+  .three .card_3 {
+    height: 40px;
+    background-color: rgb(242, 242, 242);
+  }
+  
+  /* four */
+  
+  .four .card_1 {
+    background-color: rgb(242, 242, 242);
+    height: 40px;
+  }
+  .four .card_2 {
+    height: 270px;
+    background-image: linear-gradient(rgb(242, 242, 242), white, white, white);
+    overflow: hidden;
+  }
+  
+  .four .card_3 {
+    height: 40px;
+    background-color: rgb(1, 95, 1);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  
+  /* five */
+  
+  .five .card_1 {
+    background-color: rgb(162, 128, 42);
+    height: 40px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .five .card_2 {
+    height: 270px;
+    background-image: linear-gradient(white, white, rgb(242, 242, 242));
+    overflow: hidden;
+  }
+  
+  .five .card_3 {
+    height: 40px;
+    background-color: rgb(242, 242, 242);
+  }
+  
+  .card_2 p {
+    font-size: x-large;
+    padding: 10px;
+  }
+  
+  .card_1 {
+    display: flex;
+    justify-content: center;
+  }
+  .card_3 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .card_1 .number {
+    height: 55px;
+    width: 55px;
+    margin-top: -22px;
+    border-radius: 50%;
+    background-color: rgb(216, 216, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .card_3 .number {
+    height: 55px;
+    width: 55px;
+    margin-top: 6px;
+    border-radius: 50%;
+    background-color: rgb(216, 216, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .one h2 {
+    color: rgb(26, 46, 109);
+  }
+  .two h2 {
+    color: rgb(130, 19, 99);
+  }
+  .three h2 {
+    color: rgb(241, 100, 57);
+  }
+  .four h2 {
+    color: rgb(1, 95, 1);
+  }
+  .five h2 {
+    color: rgb(162, 128, 42);
+  }
+  

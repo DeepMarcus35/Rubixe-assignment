@@ -1,0 +1,28 @@
+.whowearecontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    text-align: left;
+    margin-left: 10rem;
+    margin-bottom: 70px;
+  }
+  
+  .text-container {
+    margin: 5rem;
+  }
+  .line {
+    height: 5px;
+    width: 20rem;
+    background-color: rgb(175, 29, 175);
+    margin-bottom: 0.5rem;
+  }
+  .green-box {
+    height: 7rem;
+    width: 20rem;
+    background-color: rgb(14, 54, 14,0.9);
+    position: absolute;
+    top: 106.5%;
+    left: 74.5%;
+  }
+  

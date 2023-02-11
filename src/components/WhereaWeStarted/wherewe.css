@@ -1,0 +1,15 @@
+.wherewestarted {
+    width: 70%;
+    height: 10rem;
+  }
+.wherewecontainer {
+    background: #db3379;
+    display: flex;
+    color: white;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    text-justify: inter-word;
+}
+  
