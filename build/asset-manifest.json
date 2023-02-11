@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4fb82d5.css",
+    "main.js": "/static/js/main.c76da6af.js",
+    "static/media/logo.png": "/static/media/logo.c35abc072e44ef666426.png",
+    "static/media/seminar.jpg": "/static/media/seminar.5955d63032c6d775ba9d.jpg",
+    "static/media/meeting.jpg": "/static/media/meeting.061ad74916ddec94376e.jpg",
+    "static/media/1.jpg": "/static/media/1.fd2e8e6b60e63e44cfd1.jpg",
+    "index.html": "/index.html",
+    "main.c4fb82d5.css.map": "/static/css/main.c4fb82d5.css.map",
+    "main.c76da6af.js.map": "/static/js/main.c76da6af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4fb82d5.css",
+    "static/js/main.c76da6af.js"
+  ]
+}
